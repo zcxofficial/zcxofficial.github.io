@@ -13,24 +13,21 @@ I am currently pursuing a Master's degree in Computational Science and Engineeri
 
 ## About Me
 
-I am passionate about applying computational methods to solve complex problems across multiple domains. My academic journey has taken me from physics foundations at the University of Science and Technology of China (USTC), where I graduated with top honors (ranking 2/308), to international experiences at UC Berkeley, and now to advanced computational studies at Harvard.
+I am passionate about combining machine learning with scientific problems. My academic journey has taken me from physics foundations at the University of Science and Technology of China (USTC) & UC Berkeley, and now to advanced computational studies at Harvard.
 
 ## Research Focus
 
 My current research spans several exciting areas:
 
-🔬 **Reinforcement Learning & Symbolic Regression**: Developing novel RL-based models for financial alpha factor generation and symbolic regression, with focus on variance reduction and training stability.
+**Reinforcement Learning & Symbolic Regression**: Developing novel RL-based models for financial alpha factor generation and symbolic regression, with focus on variance reduction and training stability.
 
-⚛️ **Quantum Systems & Networks**: Designing and simulating quantum network architectures, particularly frequency-encoded photon systems and ion trap quantum computing.
+**Quantum Systems & Networks**: Designing and simulating quantum network architectures, particularly frequency-encoded photon systems and ion trap quantum computing.
 
-📊 **Computational Finance**: Mining steady formulaic alpha factors using advanced machine learning techniques and developing MLOps pipelines for quantitative trading.
+**Computational Finance**: Mining steady formulaic alpha factors using advanced machine learning techniques and developing MLOps pipelines for quantitative trading.
 
 ## Current Work
 
 I am actively involved in cutting-edge research at:
-- **Nature Inspired Computation and Applications Laboratory** at SUSTech (Prof. Peng Yang)
-- **Ion Trap Group** at UC Berkeley (Prof. Hartmut Haeffner)
-- **Ion Trap Group** at USTC (Prof. Yiheng Lin)
 
 My work has resulted in publications in prestigious journals including IEEE Transactions on Signal Processing and Physical Review A.
 
