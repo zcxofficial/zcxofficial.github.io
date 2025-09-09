@@ -1,5 +1,54 @@
 ---
 permalink: /
+title: "Chengxi Zhang - Computational Scientist & Researcher"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hello and welcome to my academic homepage!
+
+I am currently pursuing a Master's degree in Computational Science and Engineering at Harvard University (expected graduation: May 2027). My research interests lie at the intersection of machine learning, quantum systems, and computational finance, with a particular focus on reinforcement learning applications and quantum network architectures.
+
+## About Me
+
+I am passionate about applying computational methods to solve complex problems across multiple domains. My academic journey has taken me from physics foundations at the University of Science and Technology of China (USTC), where I graduated with top honors (ranking 2/308), to international experiences at UC Berkeley, and now to advanced computational studies at Harvard.
+
+## Research Focus
+
+My current research spans several exciting areas:
+
+🔬 **Reinforcement Learning & Symbolic Regression**: Developing novel RL-based models for financial alpha factor generation and symbolic regression, with focus on variance reduction and training stability.
+
+⚛️ **Quantum Systems & Networks**: Designing and simulating quantum network architectures, particularly frequency-encoded photon systems and ion trap quantum computing.
+
+📊 **Computational Finance**: Mining steady formulaic alpha factors using advanced machine learning techniques and developing MLOps pipelines for quantitative trading.
+
+## Current Work
+
+I am actively involved in cutting-edge research at:
+- **Nature Inspired Computation and Applications Laboratory** at SUSTech (Prof. Peng Yang)
+- **Ion Trap Group** at UC Berkeley (Prof. Hartmut Haeffner)
+- **Ion Trap Group** at USTC (Prof. Yiheng Lin)
+
+My work has resulted in publications in prestigious journals including IEEE Transactions on Signal Processing and Physical Review A.
+
+## Technical Expertise
+
+I have extensive experience with:
+- **Programming**: Python, Java, C/C++, MATLAB
+- **ML/DL Frameworks**: PyTorch, Transformers, Stable-Baselines3
+- **Quantum Computing**: QuTiP simulations
+- **Finance**: Qlib for quantitative analysis
+
+---
+
+*Feel free to explore my research, publications, and connect with me for potential collaborations!*
+
+
+---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
